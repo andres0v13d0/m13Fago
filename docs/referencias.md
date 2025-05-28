@@ -20,7 +20,6 @@ A continuación se listan las fuentes científicas y técnicas utilizadas como b
 - Three.js – [https://threejs.org](https://threejs.org)
 - React – [https://reactjs.org](https://reactjs.org)
 - @react-three/fiber – [https://github.com/pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)
-- AWS S3 – [https://aws.amazon.com/s3](https://aws.amazon.com/s3)
 
 ---
 
