@@ -31,10 +31,6 @@ Este documento describe la estructura técnica y modular del sistema desarrollad
 - `AnimationMixer` de Three.js para controlar la animación.
 - `OrbitControls` para navegación.
 
-### 3. **Hosting del modelo (S3)**
-- AWS S3 usado como servidor de almacenamiento seguro.
-- Acceso restringido por dominio mediante política de Referer y CORS.
-
 ---
 
 ## 🔄 Flujo de datos
