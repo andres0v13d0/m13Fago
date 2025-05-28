@@ -79,6 +79,6 @@ Este repositorio se encuentra bajo la licencia [MIT](./LICENSE), lo cual permite
 ## ✍️ Autor
 
 **Jonathan Oviedo**  
-Estudiante de Ingeniería en Software  
-Proyecto de tesis – Simulación del bacteriófago M13  
-Universidad [nombre de tu universidad]
+Estudiante de Software  
+Proyecto de tesis – DESARROLLO DE UNA APLICACIÓN WEB 3D PARA LA SIMULACIÓN Y VISUALIZACIÓN DE LA INTERACCIÓN ENTRE EL BACTERIÓFAGO M13 Y SU ENTORNO  
+Escuela Superior Politécnica de Chimborazo
