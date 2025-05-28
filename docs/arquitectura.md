@@ -36,7 +36,7 @@ Este documento describe la estructura técnica y modular del sistema desarrollad
 ## 🔄 Flujo de datos
 
 ```
-Usuario -> React (Canvas) -> Modelo .glb desde S3 -> Scene renderizada
+Usuario -> React (Canvas) -> Modelo .glb -> Scene renderizada
 ```
 
 ---
