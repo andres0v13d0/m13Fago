@@ -57,18 +57,6 @@ npm install three @react-three/fiber @react-three/drei
 
 ---
 
-## 🔐 Paso 3: Subir el modelo a S3 de forma segura
-
-1. Crea un bucket privado en AWS S3.
-2. Sube el archivo `m13.glb` a una carpeta tipo `modelos/`.
-3. Configura una política que permita acceso **solo desde localhost o tu dominio** (`bactosim.com`).
-4. Configura CORS para permitir GET desde esos orígenes.
-5. Carga el modelo desde la URL en tu código React.
-
-> Revisa el ejemplo en `/src/ejemplo-codigo/ModelLoader.jsx`
-
----
-
 ## ✅ Resultado
 
 Una aplicación web en React que muestra la animación del bacteriófago M13 de forma interactiva, permitiendo:
