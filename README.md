@@ -17,7 +17,6 @@ El objetivo de este repositorio es documentar el proceso de desarrollo y visuali
 - [Blender](https://www.blender.org/) – Modelado y animación 3D
 - [Three.js](https://threejs.org/) – Visualización interactiva en el navegador
 - [React](https://reactjs.org/) + [@react-three/fiber](https://github.com/pmndrs/react-three-fiber) – Framework para renderizar la escena en web
-- [AWS S3](https://aws.amazon.com/s3/) – Almacenamiento seguro de archivos
 - [JavaScript / HTML / CSS] – Tecnologías de base para desarrollo web
 
 ---
