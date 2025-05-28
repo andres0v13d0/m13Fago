@@ -4,7 +4,7 @@ import "./styles.css";
 
 export default function App() {
     const [play, setPlay] = useState(false);
-    const modelUrl = "https://m13-modelos-privado.s3.amazonaws.com/modelos/m13.glb"; // cambia si tienes otro
+    const modelUrl = "./modelos/m13.glb";
 
     return (
         <div className="app-container">
